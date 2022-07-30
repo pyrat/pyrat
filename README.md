@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pyrat
 - 👀 I’m interested in skiing
-- 🌱 I’m currently learning iOS
+- 🌱 I’m currently learning iOS and YOLOv5
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - (good luck!)
 
