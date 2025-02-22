@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @pyrat
-- 👀 I’m interested in skiing
-- 🌱 I’m currently learning YOLOv8 and Rails 7
 - 💞️ I’m looking to collaborate on anything
 
 
