@@ -34,6 +34,8 @@ BomBuilds helps organize parts, manage builds, and keep hardware projects sane a
 ### 📸 **OsloVision**
 Creator and maintainer of **OsloVision**, a collection of practical computer-vision tools and services.
 
+- 🌐 **Production app:** https://oslo.vision
+
 #### Public repositories:
 - **paddle-ocr-http** — HTTP API wrapper around **PaddleOCR 3 / PP-OCRv5**  
 - **anpr-rpi-standalone** — Stand-alone automatic number plate recognition for Raspberry Pi / edge devices  
@@ -47,7 +49,7 @@ More tools and documentation coming over time.
 ### 💻 Developer Tools & Libraries
 
 - **wee_beastie** — Lightweight forum engine for Rails  
-- **ssl_requirement** — SSL enforcement utility for Rails apps  
+- **ssl_requirement** — SSL enforcement utility for Rails  
 - **wee_lightbox** — Lightbox integration plugin for Rails  
 - **deployment_recipiez** — Nginx + Thin/Passenger deployment recipes  
 - **chef-backup** — Chef cookbook for automated backups  
@@ -71,7 +73,7 @@ Explore everything here → https://github.com/pyrat
 ## 📫 Get in Touch
 
 - 🐙 GitHub: https://github.com/pyrat  
-- 🌍 OsloVision: https://oslo.vision  
+- 🌍 OsloVision (production): https://oslo.vision  
 - 🧾 BomBuilds: https://bombuilds.com  
 
 Thanks for stopping by 👋
